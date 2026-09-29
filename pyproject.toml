@@ -1,0 +1,8 @@
+[project]
+name = "ai-product-discovery-mvp"
+version = "0.1.0"
+description = "Deterministic product discovery workflow with optional AI enrichment"
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
